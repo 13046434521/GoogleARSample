@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/augmented_faces_java" />
+            <option value="$PROJECT_DIR$/augmented_image_java" />
+            <option value="$PROJECT_DIR$/cloud_anchor_java" />
+            <option value="$PROJECT_DIR$/computervision_java" />
+            <option value="$PROJECT_DIR$/hello_ar_java" />
+            <option value="$PROJECT_DIR$/hello_ar_kotlin" />
+            <option value="$PROJECT_DIR$/ml_kotlin" />
+            <option value="$PROJECT_DIR$/persistent_cloud_anchor_java" />
+            <option value="$PROJECT_DIR$/raw_depth_java" />
+            <option value="$PROJECT_DIR$/recording_playback_java" />
+            <option value="$PROJECT_DIR$/shared_camera_java" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
